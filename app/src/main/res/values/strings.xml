@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">食为天</string>
+
+    <string name="order">查询食品</string>
+    <string name="evaluation">查询商家</string>
+
+    <string name="recommend">今日推荐</string>
+    <string name="foodknowledge">食品知识</string>
+    <string name="healthcolumn">健康专栏</string>
+    <string name="foodmonitoringnews">食监新闻</string>
+
+</resources>
